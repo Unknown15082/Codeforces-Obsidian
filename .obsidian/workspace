@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "5f4c73acfb10d2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd1e23a01b0bfbf",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a4a20c667be96e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c3b18aea15988a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fdd7cb656d1bdcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71314dd3c29d4052",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c7d6d397391360f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c273e6fb25588ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd94529fbe73fac5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1d3a904d6a7a48e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f234e9a00c3e3cf0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "dbd1e23a01b0bfbf",
+  "lastOpenFiles": [
+    "Codeforces/Combinatorics/Array Game - 1600E.md",
+    "Codeforces/Combinatorics/Combinatorics.md",
+    "Codeforces/Math/Math.md",
+    "Codeforces/Codeforces.md",
+    "Codeforces/Math/MEX Sequences - 1613D.md",
+    "Codeforces Problems by Topics.md"
+  ]
+}
