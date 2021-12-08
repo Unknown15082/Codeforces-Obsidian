@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7f41984fa49e6009",
+        "id": "ea6071beabf32a35",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Codeforces/Math/MEX Sequences - 1613D.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Codeforces/Math/MEX Sequences - 1613D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Codeforces/Math/MEX Sequences - 1613D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,13 +106,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7f41984fa49e6009",
+  "active": "ea6071beabf32a35",
   "lastOpenFiles": [
-    "Codeforces/Codeforces.md",
+    "Codeforces/Math/MEX Sequences - 1613D.md",
     "Codeforces/Combinatorics/Array Game - 1600E.md",
+    "Untitled.md",
+    "Codeforces/Codeforces.md",
     "Codeforces/Combinatorics/Combinatorics.md",
     "Codeforces/Math/Math.md",
-    "Codeforces/Math/MEX Sequences - 1613D.md",
     "Codeforces Problems by Topics.md"
   ]
 }
