@@ -1,1 +1,1 @@
-Index file
+Obsidian map for solutions of Codeforces problem
