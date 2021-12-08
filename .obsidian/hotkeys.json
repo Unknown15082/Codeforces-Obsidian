@@ -93,15 +93,7 @@
       "key": "2"
     }
   ],
-  "obsidian-git:open-git-view": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "V"
-    }
-  ],
+  "obsidian-git:open-git-view": [],
   "obsidian-git:pull": [
     {
       "modifiers": [
@@ -116,6 +108,16 @@
         "Alt"
       ],
       "key": "."
+    }
+  ],
+  "app:open-help": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
     }
   ]
 }
