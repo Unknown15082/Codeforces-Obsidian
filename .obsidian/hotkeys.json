@@ -16,14 +16,7 @@
       "key": "U"
     }
   ],
-  "workspace:copy-path": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
+  "workspace:copy-path": [],
   "app:delete-file": [],
   "editor:delete-paragraph": [],
   "file-explorer:reveal-active-file": [],
@@ -40,7 +33,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "`"
+      "key": "R"
     }
   ],
   "editor:toggle-strikethrough": [
@@ -119,5 +112,6 @@
       ],
       "key": "V"
     }
-  ]
+  ],
+  "editor:insert-tag": []
 }

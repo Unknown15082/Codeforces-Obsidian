@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2225e6605e21d57a",
+        "id": "45b4169ea1148088",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -99,20 +99,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2225e6605e21d57a",
+  "active": "45b4169ea1148088",
   "lastOpenFiles": [
-    "Codeforces/Math/ABC.md",
-    "Codeforces/Math/ABC.md",
-    "Templates/Template.md",
-    "Codeforces/Combinatorics/Untitled.md",
-    "Codeforces/Math/MEX Sequences - 1613D.md",
     "Codeforces/Combinatorics/Array Game - 1600E.md",
-    "Codeforces/Codeforces.md",
     "Codeforces/Combinatorics/Combinatorics.md",
     "Codeforces/Math/Math.md",
+    "Codeforces/Math/MEX Sequences - 1613D.md",
+    "Templates/Template.md",
+    "Codeforces/Math/ABC.md",
+    "Codeforces/Math/ABC.md",
+    "Codeforces/Combinatorics/Untitled.md",
+    "Codeforces/Codeforces.md",
     "Codeforces Problems by Topics.md"
   ]
 }
